@@ -14,7 +14,10 @@ header {
    float: right;
  }
 nav ul {
-  padding: 0;
+  padding: 0px;
   margin-top: 40px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
 
 }
