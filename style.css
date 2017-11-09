@@ -28,3 +28,9 @@ nav a {
   text-decoration: color #007bff;
   font-size: 18px;
 }
+header h3 {
+  font-size: 30px;
+}
+header h3 a {
+  text-decoration: color #868e96;
+}
